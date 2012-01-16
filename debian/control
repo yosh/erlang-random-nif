@@ -8,5 +8,5 @@ Homepage: http://www.rdio.com
 
 Package: erlang-random-nif
 Architecture: any
-Depends: erlang-base (>= 1:14.b.1-dfsg-1)
+Depends: erlang-base (>= 1:15.b-dfsg-2)
 Description: PRNG Erlang NIF.
