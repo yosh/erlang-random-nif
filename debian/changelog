@@ -1,3 +1,9 @@
+erlang-random-nif (1.0-4) unstable; urgency=low
+
+  * Build for R15B01.
+
+ -- Manish Singh <manish@rd.io>  Thu,  5 Apr 2012 18:23:10 -0700
+
 erlang-random-nif (1.0-3) unstable; urgency=low
 
   * Build for R15B.
