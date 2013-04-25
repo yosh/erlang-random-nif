@@ -1,3 +1,9 @@
+erlang-random-nif (1.0-6) unstable; urgency=low
+
+  * Support HiPE.
+
+ -- Manish Singh <manish@rd.io>  Thu, 25 Apr 2013 15:46:39 -0700
+
 erlang-random-nif (1.0-5) unstable; urgency=low
 
   * Build for R16B.
